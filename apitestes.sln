@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apitestes", "apitestes\apitestes.csproj", "{DEDBAC5F-7320-48F0-BE79-18AA0F39AEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDBAC5F-7320-48F0-BE79-18AA0F39AEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDBAC5F-7320-48F0-BE79-18AA0F39AEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDBAC5F-7320-48F0-BE79-18AA0F39AEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDBAC5F-7320-48F0-BE79-18AA0F39AEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49764A15-F71D-4D84-BB5A-342D5470C827}
+	EndGlobalSection
+EndGlobal
